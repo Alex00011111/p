@@ -1,7 +1,7 @@
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.utils import get_random_id
-from VkTools import VKTools
+from VKTools import VKTools
 from tokens import acces_token, comunity_token
 
 class BotInterface():
